@@ -3,9 +3,9 @@ name: simple-backend-agent
 description: Helps generate and improve backend code in Java with best practices
 model: GPT-5 (copilot)
 tools:
-	- search
-	- editFiles
-	- runCommands
+  - search
+  - editFiles
+  - runCommands
 ---
 
 # Simple Backend Agent
